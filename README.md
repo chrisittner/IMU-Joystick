@@ -89,10 +89,6 @@ This section lists some tools, that we found useful during development.
 
 If you have any questions or problems, feel free to communicate with us using Github Issues. Contributed PRs will be merged.
 
-## Authors
-
- Chris, Tobias, Simon, Sean, and anybody in the contributers list.
-
 ## License
 
 [GNU GPL v3](https://github.com/SimonMaier/MarioKartHelmet/blob/master/LICENSE), except for this introduction (`README.md`) which is [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/).
